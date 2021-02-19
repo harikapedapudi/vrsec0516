@@ -7,4 +7,5 @@ void main()
   printf("add=%d",a+b);
   printf("i have been successfully added two numbers");
   printf("APSSDC-VRSEC");
+  printf("-----------");
 }
